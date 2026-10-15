@@ -23,10 +23,20 @@ An automated workflow built with **n8n** and **Google Drive** that solves this c
 * **Action Node:** Google Drive (Dynamic file transfer to the target subject folder)
 * This is how workflow look like.
 ![n8n Workflow Setup](workflow.png)
+
+
 add the Google Drive Trigger and  link your google drive account:
 in the folder fieldes select the folde you will upload your files
+
+
 ![n8n Workflow Setup](googleDriveTrigger.png)
+
+Code Nodes: 
+
 ![n8n Workflow Setup](codeNode.png)
+
+Move Node:
+
 ![n8n Workflow Setup](moveNode.png)
 
 ---
