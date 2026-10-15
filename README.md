@@ -54,3 +54,11 @@ return [{
     targetFolderId: targetFolderId
   }
 }];
+```
+
+✨ Key Benefits
+Zero Clutter: Eliminates lost study notes and unorganized files in phone galleries.
+
+Fully Automated: Operates seamlessly in the background.
+
+Real-World Application: Bridges mobile productivity (scanning notes) with cloud automation.
