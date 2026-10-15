@@ -21,7 +21,13 @@ An automated workflow built with **n8n** and **Google Drive** that solves this c
 * **Trigger:** Google Drive (Watching for new files in the upload folder)
 * **Processing Node:** n8n Code Node (JavaScript logic for keyword detection and folder mapping)
 * **Action Node:** Google Drive (Dynamic file transfer to the target subject folder)
+* This is how workflow look like.
 ![n8n Workflow Setup](workflow.png)
+add the Google Drive Trigger and  link your google drive account:
+in the folder fieldes select the folde you will upload your files
+![n8n Workflow Setup](googleDriveTrigger.png)
+![n8n Workflow Setup](codeNode.png)
+![n8n Workflow Setup](moveNode.png)
 
 ---
 
